@@ -12,12 +12,26 @@
 	- VP of Treasury / Quaestor - Finance/Revenue
 	- VP of PR - Socials/Marketing
 	- VP of Member Relations - Membership/Reputation
+	- VP of Education - Drives educational assets + workshops
+- KPIs:
+	- 25 DAO members
+	- 500+ social influence across platforms
+	- 4+ repeatable workshops assets
+	- 12 workshops delivered
+	- ??? treasury / resources
 
 2nd Year Objectives:	
 - Forge partnerships with relevant government agencies, tech companies, academic institutions, and other organizations to help influence and develop smart city use cases in Fort Worth.
 - Lead insightful discussions and workshops with city officials and stakeholders to identify problems and opportunities for Web3 technologies within the city.
 - Collaborate with developers and designers to build prototypes and minimum viable products (MVPs) for proposed smart city solutions.
 - Engage the local community through interactive events, contests, and hackathons to gather feedback and ensure citizen-centric innovation.
+- KPIs:
+	- 75 DAO members
+	- 5,000+ social influence across platforms
+	- 12+ repeatable workshops assets
+	- 24 workshops delivered
+	- ??? treasury / resources
+	- Ideate 2 solid smart-city use-cases with blockchain system of evidence and data fabric stacks
 
 3rd Year Objectives:
 - Initiate the implementation of selected smart city use cases in Fort Worth, ensuring their scalability, security, and sustainability.
